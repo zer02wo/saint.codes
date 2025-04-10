@@ -1,11 +1,11 @@
 [build]
-  command = 'npm run deploy:prod'
-  publish = 'public'
+  command = 'npm run build'
+  publish = 'dist'
   functions = 'netlify/functions'
 
 [dev]
-  command = 'npm run deploy:dev'
-  publish = 'public'
+  command = 'npm run build'
+  publish = 'dist'
   port = 3000
 
 # Reverse proxies must be directed to trailing slash to display styles/scripts.
