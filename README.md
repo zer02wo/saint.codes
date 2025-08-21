@@ -4,6 +4,8 @@ A place for me, my thoughts and my personal projects.
 
 Built in Astro, TypeScript and Tailwind.
 
+Coming Soon :tm:
+
 ## Local Development
 
 Please note VS Code Dev Containers are supported in this project.
